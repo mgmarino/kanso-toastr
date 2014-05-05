@@ -3,9 +3,9 @@ kanso-jquery-mobile
 
 toastr wrapped for kan.so
 
-This is currently version 2.0.2.  The toastr website is:
+This is currently version @VERSION@.  The toastr website is:
 
-http://codeseven.github.io/toastr/
+@URL@
 
 Usage
 -----

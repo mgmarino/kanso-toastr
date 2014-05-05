@@ -1,0 +1,21 @@
+{
+    "name": "toastr",
+    "version": "2.0.2-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "http://codeseven.github.io/toastr/",
+    "modules": "toastr.js",
+    "modules_attachment": false,
+    "attachments" : ["css"],
+    "dependencies": {
+        "modules": ">=0.0.8",
+        "attachments": null,
+        "jquery": ">=1.10.1-kanso"
+    },
+    "description": "toastr provides a lightweight, GROWL-like non-block notification framework."
+}
